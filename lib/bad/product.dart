@@ -1,0 +1,4 @@
+enum Product {
+  debit,
+  deposit,
+}
